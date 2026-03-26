@@ -22,6 +22,7 @@ public class HelloApplication extends Application {
         System.out.println("Hello World!");
     }
 
-    public static void main() { launch();
+    public static void main() {
+        launch();
     }
 }
