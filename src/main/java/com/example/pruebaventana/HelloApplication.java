@@ -12,7 +12,7 @@ public class HelloApplication extends Application {
     public void start(Stage stage){
         Pane root = new Pane();
         root.setStyle(
-                "-fx-background-image: url('icon.jpg');" +
+                "-fx-background-image: url('Felix1.png');" +
                 "-fx-background-size: cover;"
         );
         Scene scene = new Scene(root, 735, 824);
