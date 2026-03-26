@@ -19,9 +19,9 @@ public class HelloApplication extends Application {
         stage.setTitle("Gato");
         stage.setScene(scene);
         stage.show();
+        System.out.println("Hello World!");
     }
 
-    public static void main() {
-        launch();
+    public static void main() { launch();
     }
 }
